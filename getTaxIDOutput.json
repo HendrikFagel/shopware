@@ -1,0 +1,255 @@
+{
+  "data": [
+    {
+      "id": "7964c48eb2574876a6704cdd4e986df4",
+      "type": "tax",
+      "attributes": {
+        "taxRate": 0.0,
+        "name": "Reduced rate 2",
+        "customFields": null,
+        "createdAt": "2020-07-16T11:10:38.596+00:00",
+        "updatedAt": null,
+        "apiAlias": null
+      },
+      "links": {
+        "self": "https://www.plintenburg.com/api/v3/tax/7964c48eb2574876a6704cdd4e986df4"
+      },
+      "relationships": {
+        "products": {
+          "data": [
+            
+          ],
+          "links": {
+            "related": "https://www.plintenburg.com/api/v3/tax/7964c48eb2574876a6704cdd4e986df4/products"
+          }
+        },
+        "rules": {
+          "data": [
+            
+          ],
+          "links": {
+            "related": "https://www.plintenburg.com/api/v3/tax/7964c48eb2574876a6704cdd4e986df4/rules"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "3e2c341e51ee4eb2ad55aaee6d14f763",
+      "type": "tax",
+      "attributes": {
+        "taxRate": 7.0,
+        "name": "Reduced rate",
+        "customFields": null,
+        "createdAt": "2020-07-16T11:10:25.015+00:00",
+        "updatedAt": null,
+        "apiAlias": null
+      },
+      "links": {
+        "self": "https://www.plintenburg.com/api/v3/tax/3e2c341e51ee4eb2ad55aaee6d14f763"
+      },
+      "relationships": {
+        "products": {
+          "data": [
+            
+          ],
+          "links": {
+            "related": "https://www.plintenburg.com/api/v3/tax/3e2c341e51ee4eb2ad55aaee6d14f763/products"
+          }
+        },
+        "rules": {
+          "data": [
+            
+          ],
+          "links": {
+            "related": "https://www.plintenburg.com/api/v3/tax/3e2c341e51ee4eb2ad55aaee6d14f763/rules"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "683ca58176fe425493261596e3c573a8",
+      "type": "tax",
+      "attributes": {
+        "taxRate": 15.0,
+        "name": "Olav neues Produkt mit Birnen",
+        "customFields": null,
+        "createdAt": "2020-08-22T17:27:56.827+00:00",
+        "updatedAt": null,
+        "apiAlias": null
+      },
+      "links": {
+        "self": "https://www.plintenburg.com/api/v3/tax/683ca58176fe425493261596e3c573a8"
+      },
+      "relationships": {
+        "products": {
+          "data": [
+            
+          ],
+          "links": {
+            "related": "https://www.plintenburg.com/api/v3/tax/683ca58176fe425493261596e3c573a8/products"
+          }
+        },
+        "rules": {
+          "data": [
+            
+          ],
+          "links": {
+            "related": "https://www.plintenburg.com/api/v3/tax/683ca58176fe425493261596e3c573a8/rules"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "cdaee6e14a3b451490c0a7dd64275629",
+      "type": "tax",
+      "attributes": {
+        "taxRate": 15.0,
+        "name": "Olav neues Produkt mit Birnen",
+        "customFields": null,
+        "createdAt": "2020-08-22T15:11:04.669+00:00",
+        "updatedAt": null,
+        "apiAlias": null
+      },
+      "links": {
+        "self": "https://www.plintenburg.com/api/v3/tax/cdaee6e14a3b451490c0a7dd64275629"
+      },
+      "relationships": {
+        "products": {
+          "data": [
+            
+          ],
+          "links": {
+            "related": "https://www.plintenburg.com/api/v3/tax/cdaee6e14a3b451490c0a7dd64275629/products"
+          }
+        },
+        "rules": {
+          "data": [
+            
+          ],
+          "links": {
+            "related": "https://www.plintenburg.com/api/v3/tax/cdaee6e14a3b451490c0a7dd64275629/rules"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "e836757f81ce4c749749f9d368ee89d8",
+      "type": "tax",
+      "attributes": {
+        "taxRate": 15.0,
+        "name": "Olav neues Produkt mit Birnen",
+        "customFields": null,
+        "createdAt": "2020-08-22T17:24:29.746+00:00",
+        "updatedAt": null,
+        "apiAlias": null
+      },
+      "links": {
+        "self": "https://www.plintenburg.com/api/v3/tax/e836757f81ce4c749749f9d368ee89d8"
+      },
+      "relationships": {
+        "products": {
+          "data": [
+            
+          ],
+          "links": {
+            "related": "https://www.plintenburg.com/api/v3/tax/e836757f81ce4c749749f9d368ee89d8/products"
+          }
+        },
+        "rules": {
+          "data": [
+            
+          ],
+          "links": {
+            "related": "https://www.plintenburg.com/api/v3/tax/e836757f81ce4c749749f9d368ee89d8/rules"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "f604cbdf1c5345eb80796f0373380962",
+      "type": "tax",
+      "attributes": {
+        "taxRate": 15.0,
+        "name": "einfach so",
+        "customFields": null,
+        "createdAt": "2020-08-23T12:38:33.269+00:00",
+        "updatedAt": null,
+        "apiAlias": null
+      },
+      "links": {
+        "self": "https://www.plintenburg.com/api/v3/tax/f604cbdf1c5345eb80796f0373380962"
+      },
+      "relationships": {
+        "products": {
+          "data": [
+            
+          ],
+          "links": {
+            "related": "https://www.plintenburg.com/api/v3/tax/f604cbdf1c5345eb80796f0373380962/products"
+          }
+        },
+        "rules": {
+          "data": [
+            
+          ],
+          "links": {
+            "related": "https://www.plintenburg.com/api/v3/tax/f604cbdf1c5345eb80796f0373380962/rules"
+          }
+        }
+      },
+      "meta": null
+    },
+    {
+      "id": "d602d92febe6448d9364f8b0cda00e49",
+      "type": "tax",
+      "attributes": {
+        "taxRate": 19.0,
+        "name": "Standard rate",
+        "customFields": null,
+        "createdAt": "2020-07-16T11:10:25.012+00:00",
+        "updatedAt": null,
+        "apiAlias": null
+      },
+      "links": {
+        "self": "https://www.plintenburg.com/api/v3/tax/d602d92febe6448d9364f8b0cda00e49"
+      },
+      "relationships": {
+        "products": {
+          "data": [
+            
+          ],
+          "links": {
+            "related": "https://www.plintenburg.com/api/v3/tax/d602d92febe6448d9364f8b0cda00e49/products"
+          }
+        },
+        "rules": {
+          "data": [
+            
+          ],
+          "links": {
+            "related": "https://www.plintenburg.com/api/v3/tax/d602d92febe6448d9364f8b0cda00e49/rules"
+          }
+        }
+      },
+      "meta": null
+    }
+  ],
+  "included": [
+    
+  ],
+  "links": {
+    "self": "https://www.plintenburg.com/api/v3/search/tax"
+  },
+  "meta": {
+    "totalCountMode": 0,
+    "total": 7
+  },
+  "aggregations": [
+    
+  ]
+}
